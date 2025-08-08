@@ -6,6 +6,8 @@ github.com/go-raptor/middlewares/logger v1.0.0 h1:n06UdBuQsEcdE3ub4tzQh+XubIEVKt
 github.com/go-raptor/middlewares/logger v1.0.0/go.mod h1:Pl+wsruKrfiRhs9tI+fF0etGcEScBkcNmwUH2J9H0P8=
 github.com/go-raptor/raptor/v4 v4.0.2 h1:As9LQsLXBYyXVfG/F8oRUQIG1JkFuh/VBF+pBPahMw4=
 github.com/go-raptor/raptor/v4 v4.0.2/go.mod h1:HilAUjnoSgSvI10RYrs2cijKs6rjnf9rL0hn+iWt8wk=
+github.com/go-raptor/raptor/v4 v4.0.4 h1:3UJw3rURf9G/yBOnt11qwtRFo4BZkWeNxtcxPBfkU+I=
+github.com/go-raptor/raptor/v4 v4.0.4/go.mod h1:HilAUjnoSgSvI10RYrs2cijKs6rjnf9rL0hn+iWt8wk=
 github.com/h00s/tint v1.1.2 h1:B1X7WeDtLpfLVLYy4SZAMa92RgmtJN9Ya2pN0C5U0l8=
 github.com/h00s/tint v1.1.2/go.mod h1:A6y/VboBZiBW7PWebkEGV5qAPGPLpTukHBfGgik+m88=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
